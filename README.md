@@ -1,6 +1,6 @@
-# Thendra Nitro Generator and Checker
+# Curwels Nitro Generator and Checker
 
-Nitro Generator &amp; Checker by Thendra
+Nitro Generator &amp; Checker by Curwels
 
 # Usage
 
@@ -14,5 +14,5 @@ If you do not specify a channel, it will create a text document and save the ver
 
 4.You can now use verified nitro codes.
 
-# 2022 &copy; Thendra
+# 2022 &copy; Curwels
 All rights reserved.
