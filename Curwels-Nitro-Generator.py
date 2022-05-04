@@ -27,7 +27,21 @@ class NitroGen:
             ctypes.windll.kernel32.SetConsoleTitleW("Nitro Generator and Checker - Thendra")
         else: 
             print(f'\33]0;Nitro Generator and Checker - Curwels\a', end='', flush=True) 
+        
+        print(""" 
+ 
 
+ $$$$$$\                                              $$\           
+$$  __$$\                                             $$ |          
+$$ /  \__|$$\   $$\  $$$$$$\  $$\  $$\  $$\  $$$$$$\  $$ | $$$$$$$\ 
+$$ |      $$ |  $$ |$$  __$$\ $$ | $$ | $$ |$$  __$$\ $$ |$$  _____|
+$$ |      $$ |  $$ |$$ |  \__|$$ | $$ | $$ |$$$$$$$$ |$$ |\$$$$$$\  
+$$ |  $$\ $$ |  $$ |$$ |      $$ | $$ | $$ |$$   ____|$$ | \____$$\ 
+\$$$$$$  |\$$$$$$  |$$ |      \$$$$$\$$$$  |\$$$$$$$\ $$ |$$$$$$$  |
+ \______/  \______/ \__|       \_____\____/  \_______|\__|\_______/ 
+                                                                     
+                                                                                                                        
+                                                        """) Q
         time.sleep(1) 
         self.slowType("Nitro Generator Programına Hoş Geldiniz!", .02) 
         time.sleep(1) 
